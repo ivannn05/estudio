@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\bin\Debug\net8.0\pruebaAmbulatorioParaExamen.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\bin\Debug\net8.0\pruebaAmbulatorioParaExamen.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\bin\Debug\net8.0\pruebaAmbulatorioParaExamen.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\bin\Debug\net8.0\pruebaAmbulatorioParaExamen.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\bin\Debug\net8.0\pruebaAmbulatorioParaExamen.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\refint\pruebaAmbulatorioParaExamen.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\pruebaAmbulatorioParaExamen.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\pruebaAmbulatorioParaExamen\obj\Debug\net8.0\ref\pruebaAmbulatorioParaExamen.dll
